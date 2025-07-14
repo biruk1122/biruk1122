@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Frontend**
 
-- 🌱 I’m currently learning **Software Engineering in ALX Africa**
+- 🌱 I’m currently completed **Software Engineering in ALX Africa**
 
 - 👨‍💻 All of my projects are available at [https://dev-biruke.pantheonsite.io/](https://dev-biruke.pantheonsite.io/)
 
