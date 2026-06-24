@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently completed **Software Engineering in ALX Africa**
 
-- 👨‍💻 All of my projects are available at [https://dev-biruke.pantheonsite.io/](https://dev-biruke.pantheonsite.io/)
+- 👨‍💻 All of my projects are available at [https://birukaportfolio.netlify.app/](https://birukaportfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
